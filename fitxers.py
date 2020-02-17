@@ -5,3 +5,4 @@ def escriu_capçalera(nom_fitxer):
 
 if __name__ == '__main__':
     escriu_capçalera('imatge.pbm')
+    
